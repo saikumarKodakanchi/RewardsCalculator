@@ -8,3 +8,5 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
 (e.g. a $120 purchase = 2x$20 + 1x$50 = 90 points).
 
 Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total.
+
+Execute the program by running src/main/java/com/charterassignment/main/RewardsApplication.java class. Test data is provided as part of this class.
